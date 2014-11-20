@@ -1,0 +1,4 @@
+CakePHP RestAuthenticate Auth Component
+=======================================
+
+
